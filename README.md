@@ -4,4 +4,4 @@ Leveraged SQL and data analytics to optimize Intel’s global device repurposing
 
 ## 📄 Final Project Report (PDF)
 
-[Click here to view the full analysis (PDF)](./Jonathan%20(JT)%20Priest%20-%20Intel%20Sustainability%20Analysis_%20Optimizing%20CO%E2%82%82%20%26%20Energy%20Impact%20(SQL).pdf)
+[Click here to view the full analysis (PDF)](./Intel_Sustainability_Analysis_JT_Priest.pdf)
